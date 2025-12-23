@@ -1,0 +1,8 @@
+CNN Model Accuracy: 0.83
+CNN Model Recall: 0.76
+CNN Model Precision: 0.89
+CNN Model F1 Score: 0.82
+True negative: 2668
+False positive: 264
+False negative: 700
+True positive: 2168
