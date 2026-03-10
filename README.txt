@@ -1,6 +1,6 @@
 Web-based access:
 
-1.	Navigate in your preferred browser to: https://c964solarmodulecnnjacobtaylor.streamlit.app/
+1.	Navigate in your preferred browser to: https://solarmodulecnnjacobtaylorcapstone.streamlit.app/
 
 2.	It may take a moment to load.
 
