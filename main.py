@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from PIL import Image
 
-#For the streamlite my main source of information was gathered from kolheshivam17's (2025) geeks for geeks article
+#For the Streamlit my main source of information was gathered from kolheshivam17's (2025) geeks for geeks article
 #streamlit title
 st.title('Solar Panel Fault Detection')
 
